@@ -1,0 +1,22 @@
+{
+  "name": "graft-rpc",
+  "version": "1.0.0",
+  "description": "App for staking via RPC and Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickwilliams/graft-rpc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickwilliams/graft-rpc/issues"
+  },
+  "homepage": "https://github.com/rickwilliams/graft-rpc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
